@@ -1,0 +1,9 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"GLTFExporter": "UE4Editor-GLTFExporter.dll",
+		"GLTFMaterialAnalyzer": "UE4Editor-GLTFMaterialAnalyzer.dll",
+		"GLTFMaterialBaking": "UE4Editor-GLTFMaterialBaking.dll"
+	}
+}

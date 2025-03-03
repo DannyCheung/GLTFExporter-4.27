@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.GLTFExporter.cpp.obj",
+		"Module.GLTFExporter.gen.cpp.obj"
+	]
+}
